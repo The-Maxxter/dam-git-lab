@@ -1,6 +1,9 @@
-# SDAM Git Lab
+# DAM Git Lab
 
-## Entornos de desarollo
+## Descripción
 
-### Sistema operativo (Linux)
+Repositorio de prácticas de Git para Desarrollo de Aplicaciones Multiplataforma.
 
+## Autor
+
+Mauro Edi Goller Pérez
